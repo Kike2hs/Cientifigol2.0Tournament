@@ -1,0 +1,241 @@
+{
+    "m_SelectedDeviceId": "R9YRB0PM8MF",
+    "m_SelectedPackage": {
+        "deviceId": "R9YRB0PM8MF",
+        "name": "com.DefaultCompany.com.unity.template.mobile2D",
+        "processId": 20648,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19109,
+            "exited": true
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19461,
+            "exited": true
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 22284,
+            "exited": true
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 22651,
+            "exited": true
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 23030,
+            "exited": true
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 25310,
+            "exited": false
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 7938,
+            "exited": false
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18120,
+            "exited": false
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 24607,
+            "exited": false
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 26784,
+            "exited": false
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27380,
+            "exited": false
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27765,
+            "exited": false
+        },
+        {
+            "deviceId": "TGPVRORCIJ5XLVB6",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27979,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 16255,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 16668,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 16954,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17276,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17636,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18053,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18352,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18614,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18852,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19096,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19367,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19941,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20236,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YRB0PM8MF",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20648,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}

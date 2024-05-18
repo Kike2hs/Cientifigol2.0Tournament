@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 75bcbee38b715294f8839ac885dfd3fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 154
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a10f5ee8e1892e4a9e6c5419cb6b8cf
+      internalID: 134108411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 155
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c378e7ca8b6752b4fa42f6433bd1c159
+      internalID: -249827012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 155
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed51203e43f9f3c4ca1e36d570b57696
+      internalID: -519800279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 155
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e6cbd10727d5840aa7e28035df26ce
+      internalID: 1185834505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e92b1b3aebe9e47b730ba432b6345c
+      internalID: 743476153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 79
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8905eb7cba984cc4d9f85b7e7ef25108
+      internalID: 956603653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 79
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd18de327535aab438c53ca5e321cd12
+      internalID: 1897533999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 79
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f870df25d5253d48a02d72423cd3503
+      internalID: -41907607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_0: -1235879307
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_1: 354512900
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_10: -821473866
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_11: -169902441
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_12: 1745690322
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_13: -1722863479
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_14: 956603653
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_15: 1897533999
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_16: -41907607
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_17: 1008653809
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_2: 134108411
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_3: -249827012
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_4: 2038460423
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_5: -519800279
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_6: 1185834505
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_7: 1575103106
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_8: 1850489073
+      sprite-sheet-mystic-bubble-magic-260nw-591566363-removebg-preview_9: 743476153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
